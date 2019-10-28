@@ -1,0 +1,10 @@
+{
+    "defaultSeverity": "warning",
+
+    "jsRules": {},
+    "rules": {
+        "trailing-comma": [ false ]
+    },
+    "rulesDirectory": []
+}
+
